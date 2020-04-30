@@ -1,0 +1,26 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Learning mongoDB on my own, using mongoose with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzo-z/DOMinateMongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzo-z/DOMinateMongoDB/issues"
+  },
+  "homepage": "https://github.com/enzo-z/DOMinateMongoDB#readme",
+  "dependencies": {
+    "mongoose": "^5.9.7"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
